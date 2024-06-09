@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+	color:#34241D;
+	font-family:aladin;
+	font-size: 20px;
+	line-height: 20px;
+	width: 800px;
+	padding: 20px;
+}
+.paragraf_2 {
+	color:#34241D;
+	background-color:#E7D9BF;
+ 
+}
+.novi_blok{
+	background-color: rgba(238,164,225,1.00);
+	padding: 20px;
+	margin: 10;
+	width: 30%;
+}
+h1 {font-family: NinaBudiselic; 
+	color:black;
+	font-size: 80px;
+} 
+h2 {font-family:aladin;
+	color:#34241D;
+	font-size: 37.5px;
+}
+
+.navibar ul{
+	list-style-type: none;
+	text-align: center;
+	padding: 40px;
+	margin: 20px;
+	width: 800px;
+}
+
+.navibar a{
+	background-color:#291812;
+	color:white;
+}
+.navibar li{
+	float:left;
+}
+.navibar1 ul{
+	list-style-type: none;
+	text-align: center;
+	padding: 40px;
+	margin: 20px;
+	width: 800px;
+}
+.navibar1 a{
+	background-color:cadetblue;
+	color:white;
+}
+.navibar1 li{
+	float: left;
+}
+
+.pozadina{ 
+	background-image:url("../slike 1/2e1a58aef1668c8c766d171f0a341a32.jpg")
+}
+.drugapozadina{
+	background-image: url("../slike 1/348fcef3cec4191c626f76d2421dce9a.jpg"); 
+}
+.drugapozadina ol{
+	list-style-type: circle;
+}
+.drugapozadina h1,h2{
+	font-family: aladin;
+	color:#1E0A34;
+	background-color:none;
+}
+
+.ja{
+	background-image:url("../slike 1/dc73fa3e244b022e0d7215bb5906e91c.jpg")
+}
+.ja p{
+	color: #34241D;
+	font-family: aladin;
+	background-color:#E7D9BF;
+}
+.ja h1{
+	font-family: aladin;
+	color: #34241D;
+}
+
+.videopoz {
+	background-color: #131423;
+}
+.videopoz h1,p{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif";
+	color: white;
+}
+a:link {
+	color: black;
+	background-color: none;
+	padding: 10px;
+	line-height: 40px;
+	border: 1px solid #000000;
+}
+
+img {
+	height: 250px;
+}
+
